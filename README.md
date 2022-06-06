@@ -1,6 +1,6 @@
 # Boğaziçi University - CMPE 491 
 Welcome to our github repository for Bogazici University's CMPE 491 Course.
-You can check our [Wiki section](https://github.com/bounswe/2021SpringGroup5/wiki) for more information!
+You can check our [Wiki section](https://github.com/salih997/CMPE491/wiki) for more information!
 
 ## Team Members
 [Salih Bedirhan Eker](https://github.com/salih997) and [Ece Dilara Aslan](https://github.com/eceasslan)
